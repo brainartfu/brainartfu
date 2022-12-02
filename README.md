@@ -39,15 +39,6 @@ During my daily work, I always try to pay attention to details, and be focused a
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-<h1 align="center">🤲</h1>
-<p align="center">
-<a href="mailto:brainartfu@gmail.com">Email to</a>
-</p>
-<p align="center">
-<a href="https://join.skype.com/invite/live:.cid.f213e346b7495664">Skype to</a>
-<!-- live:.cid.f213e346b7495664 -->
-</p>
-
 ### 🤝🏻 Connect, Follow, Subscribe
 
 [![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/absatyaprakash/)
