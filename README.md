@@ -55,26 +55,17 @@ During my daily work, I always try to pay attention to details, and be focused a
 [![Telegram](https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white)](https://www.youtube.com/c/ABSatyaprakash)
 [![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/AbSatyaprakash)
 
----
-### 🤝🏻 Connect, Follow, Subscribe
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absatyaprakash/)
-[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@absatyaprakash)
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ABSatyaprakash)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbSatyaprakash)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/absatyaprakash/)
 
 ---
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
-React        7 hrs 12 mins   █████████████████░░░░░░░░   68.25 %
-React-Native 1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-JavaScript   1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+React        7 hrs 12 mins   ██████████████░░░░░░░░░░░   49.25 %
+React-Native 1 hr 35 mins    █████████▓░░░░░░░░░░░░░░░   36.09 %
+PHP          1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
 python       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-GraphQL      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
@@ -83,19 +74,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/brainartfu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=brainartfu&show_icons=true&theme=gotham" alt="brainartfu" />
-
-
 
 
