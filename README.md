@@ -48,6 +48,23 @@ During my daily work, I always try to pay attention to details, and be focused a
 <!-- live:.cid.f213e346b7495664 -->
 </p>
 
+### 🤝🏻 Connect, Follow, Subscribe
+
+[![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/absatyaprakash/)
+[![Skype](https://img.shields.io/badge/Skype-333333?style=for-the-badge&logo=skype&logoColor=white)](https://medium.com/@absatyaprakash)
+[![Telegram](https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white)](https://www.youtube.com/c/ABSatyaprakash)
+[![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/AbSatyaprakash)
+
+---
+### 🤝🏻 Connect, Follow, Subscribe
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/absatyaprakash/)
+[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@absatyaprakash)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ABSatyaprakash)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbSatyaprakash)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/absatyaprakash/)
+
+---
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
