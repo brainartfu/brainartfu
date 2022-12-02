@@ -51,7 +51,7 @@ During my daily work, I always try to pay attention to details, and be focused a
 ### 🤝🏻 Connect, Follow, Subscribe
 
 [![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/absatyaprakash/)
-[![Skype](https://img.shields.io/badge/Skype-333333?style=for-the-badge&logo=skype&logoColor=white)](https://medium.com/@absatyaprakash)
+[![Skype](https://img.shields.io/badge/Skype-333333?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/live:.cid.f213e346b7495664)
 [![Telegram](https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white)](https://www.youtube.com/c/ABSatyaprakash)
 [![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/AbSatyaprakash)
 
@@ -61,11 +61,11 @@ During my daily work, I always try to pay attention to details, and be focused a
 <!--START_SECTION:waka-->
 
 ```text
-React        7 hrs 12 mins   ██████████████░░░░░░░░░░░   49.25 %
-React-Native 1 hr 35 mins    █████████▓░░░░░░░░░░░░░░░   36.09 %
-PHP          1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-python       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-HTML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+React        19 hrs 12 mins  ██████████████░░░░░░░░░░░   49.25 %
+React-Native 13 hr 35 mins   █████████▓░░░░░░░░░░░░░░░   36.09 %
+PHP          6 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+python       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
