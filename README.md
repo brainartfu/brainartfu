@@ -40,13 +40,13 @@ During my daily work, I always try to pay attention to details, and be focused a
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 ### 🤝🏻 Connect, Follow, Subscribe
-
+<!--
 [![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/absatyaprakash/)
 [![Skype](https://img.shields.io/badge/Skype-333333?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/live:.cid.f213e346b7495664)
 [![Telegram](https://img.shields.io/badge/Telegram-FF0000?style=for-the-badge&logo=telegram&logoColor=white)](https://www.youtube.com/c/ABSatyaprakash)
 [![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://twitter.com/AbSatyaprakash)
 
-
+-->
 ---
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
