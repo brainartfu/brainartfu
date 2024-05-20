@@ -6,8 +6,9 @@ As a talented developer, I have built many websites and App using React, React-N
 I love taking on complex business challenges and designing full-stack solutions using your technologies of choice!
 During my daily work, I always try to pay attention to details, and be focused as much as possible, produce good daily progress, effectively solve problems, cause in my opinion paying attention to clean coding standards is essential.
 
-📊 **this week i spent my time on:**
 <!--START_SECTION:waka
+
+📊 **this week i spent my time on:**
 
 ```text
 React        19 hrs 12 mins  ██████████████░░░░░░░░░░░   49.25 %
